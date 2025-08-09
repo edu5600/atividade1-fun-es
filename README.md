@@ -1,1 +1,1 @@
-O seguinte ficheiro contém o arquivo referente a primeira Atividade da materia: Algoritimos e Programação de Computadores ||, Turma A, ministrada por Giovanne Falcão na Universidade Estadual do Centro Oeste.  Aluno: Eduardo Auda Scislowski.
+O seguinte ficheiro contém o arquivo referente a primeira atividade da materia: Algoritimos e Programação de Computadores ||, Turma A, ministrada por Giovanne Falcão na Universidade Estadual do Centro Oeste.  Aluno: Eduardo Auda Scislowski.
